@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  color: whitesmoke;
+  /*background-image: url(../img/arch.jpg);*/
+}
+
+h1 {
+  color: black;
+}
+
+span {
+  color: black;
+}
+
+div {
+  background-color: white;
+}
+
+#intro {
+  color: black;
+}
+
+.box {
+  margin: 100px 0px 20px;
+  border: 10px 10px 10px;
+  padding: 20px 20px 20px;
+}
+
+/*.projects {
+  margin: 10px 20px 10px;
+  padding: 20px 20px 20px;
+}*/
+
+a:link {
+  color: rgb(85, 85, 198);
+  font-size: 50px;
+}
+
+a:hover {
+  color: white;
+}
